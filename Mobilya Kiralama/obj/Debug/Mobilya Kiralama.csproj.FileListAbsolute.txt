@@ -1,0 +1,14 @@
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\Mobilya Kiralama.csproj.AssemblyReference.cache
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\MobilyaKiralama.Formlar.frmMobilyaEkle.resources
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\Mobilya_Kiralama.Properties.Resources.resources
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\Mobilya Kiralama.csproj.GenerateResource.cache
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\Mobilya Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\MobilyaKiralama.frmAnaSayfa.resources
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\MobilyaKiralama.frmKullaniciGiris.resources
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\MobilyaKiralama.frmYeniKullanici.resources
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\MobilyaKiralama.Formlar.frmMobilyaListele.resources
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\bin\Debug\Mobilya Kiralama.exe.config
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\bin\Debug\Mobilya Kiralama.exe
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\bin\Debug\Mobilya Kiralama.pdb
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\Mobilya Kiralama.exe
+C:\Users\SythnYSR\Desktop\Mobilya Kiralama\Mobilya Kiralama\obj\Debug\Mobilya Kiralama.pdb
